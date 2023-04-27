@@ -9,7 +9,7 @@ freeCodeCamp project.
 ## 2. Features
  * Review code to see how to build your own similar menu page
 
- ![](images/camper-cafe-menu.jpg)
+ ![](assets/images/camper-cafe-menu.jpg)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
