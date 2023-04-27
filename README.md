@@ -7,8 +7,7 @@ freeCodeCamp project.
 [DIRECT LINK](https://cbushehry.github.io/camper-cafe-menu/)
 
 ## 2. Features
- * 
- * 
+ * Review code to see how to build your own similar menu page
 
  ![](images/camper-cafe-menu.jpg)
 
